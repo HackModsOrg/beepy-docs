@@ -7,13 +7,13 @@ A :b:epis motherboard needs some parts! Namely, a Pi Zero, a display, a Blackber
 There are a few screen options expected to work with this revision with no hardware mods.
 
 - Sharp LS027B7DH01 (or LS027B7DH01A) - 400x240 monochrome transflexive LCD (Amazon/Aliexpress/eBay, is also sold on breakouts from Adafruit)
--- can also check [Octopart](https://octopart.com/ls027b7dh01-sharp-18121932) and see if it's available on Digikey or such
+  - can also check [Octopart](https://octopart.com/ls027b7dh01-sharp-18121932) and see if it's available on Digikey or such
 - ILI9341 18-pin 2.4" display panel - 320x400 colour LCD, with touch panel option
--- we have a touch panel driver connected to PiZero's I2C on the :b:epis, and it's supported by the Linux kernel!
--- two reference listings: [one](https://de.aliexpress.com/item/32794392693.html) [two](https://de.aliexpress.com/item/32861524235.html)
+  - we have a touch panel driver connected to PiZero's I2C on the :b:epis, and it's supported by the Linux kernel!
+  - two reference listings: [one](https://de.aliexpress.com/item/32794392693.html) [two](https://de.aliexpress.com/item/32861524235.html)
 - ST7789 18-pin 2.4" display panel - 320x400 colour LCD, IPS (higher viewing angles and better colours)
--- reference listing: [one](https://de.aliexpress.com/item/1005005998013197.html)
--- not known if it's well-supported by the Linux kernel yet
+  - reference listing: [one](https://de.aliexpress.com/item/1005005998013197.html)
+  - not known if it's well-supported by the Linux kernel yet
 
 ## Pi Zero
 
