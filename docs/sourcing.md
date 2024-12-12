@@ -21,7 +21,7 @@ Zero W or Zero 2 W, we'll use the latter. [https://rpilocator.com/](https://rpil
 
 ## Keyboard
 
-Blackberry Q20 replacement keyboard. There's a few on eBay/Amazon/Aliexpress, but please, first check for them locally in your country! You'll likely get a better deal, and, it's better if you leave the more global sources as a backup option, so that everyone has a shot at getting a keyboard.
+Blackberry Q20 replacement keyboard. There's a few on eBay/Amazon/Aliexpress, but please, **first check for them locally in your country!** You'll likely get a better deal, and, it's better if you leave the more global sources as a backup option, so that everyone has a shot at getting a keyboard.
 
 Here's [a link](https://www.ebay.com/itm/405153457651) (now out-of-stock) as a reference for "what exactly you need to get".
 
